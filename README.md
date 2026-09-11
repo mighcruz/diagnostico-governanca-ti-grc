@@ -1,7 +1,7 @@
 ### Auditoria e Plano de Governança de TI e GRC
 
 <p align="center">
-  <img src="docs/capa.png" alt="Banner do projeto width="1000">
+  <img src="docs/capa1.png" alt="Banner do projeto width="1000">
 
 Avaliação de maturidade, diagnóstico estratégico e construção de Business Case para estruturação de governança, riscos e conformidade em empresa de serviços de TI.
 
