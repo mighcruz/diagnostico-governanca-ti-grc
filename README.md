@@ -1,15 +1,11 @@
-# Auditoria e Plano de Governança de TI e GRC
+### Auditoria e Plano de Governança de TI e GRC
 
-> Avaliação de maturidade, diagnóstico estratégico e construção de Business Case para estruturação de governança, riscos e conformidade em empresa de serviços de TI.
+<p align="center">
+  <img src="docs/capa.png" alt="Banner do projeto width="1000">
 
-**Status:** Concluído  
-**Natureza:** Acadêmico Aplicado em Contexto Empresarial Real
+Avaliação de maturidade, diagnóstico estratégico e construção de Business Case para estruturação de governança, riscos e conformidade em empresa de serviços de TI.
 
----
-
-## 🔒 Nota de Confidencialidade
-
-*Tratando-se de um projeto desenvolvido em contexto empresarial real, dados sensíveis, nomes de colaboradores, endereços específicos e detalhes operacionais internos da organização foram anonimizados ou generalizados neste repositório, preservando a confidencialidade da empresa analisada (Consultoria em TI BH).*
+#### **Natureza:** Acadêmico / Empresarial Real ✔
 
 ---
 
@@ -73,6 +69,9 @@ A solução entregue foi um modelo de governança sob medida para uma PME de ser
 
 *[Espaço reservado para inserção de imagens da Matriz BSC, Tabela de Maturidade COBIT ou Gráfico do Business Case]*
 
+<p align="center"> <img src="docs/infografico.png" alt="infografico width="1000">
+
+
 ## Resultados e Validação
 
 - Diagnóstico preciso da maturidade atual da organização, identificando que a maioria dos processos críticos estava nos níveis 1 e 2.
@@ -99,8 +98,6 @@ A solução entregue foi um modelo de governança sob medida para uma PME de ser
 - [Link para a Planilha de Avaliação de Maturidade COBIT]
 - [Link para o Business Case e Projeções Financeiras]
 
----
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelhcruz)
@@ -113,3 +110,9 @@ A solução entregue foi um modelo de governança sob medida para uma PME de ser
 [⬅️ Voltar ao Perfil Principal](https://github.com/mighcruz) 
 
 [📂 Voltar ao Hub Central de Projetos](https://github.com/mighcruz/portfolio-ti)
+
+---
+
+###### 🔒 Nota de Confidencialidade
+
+###### *Tratando-se de um projeto desenvolvido em ambiente de simulação corporativa e laboratório de testes, quaisquer topologias de rede, endereços IP, credenciais de acesso ou configurações específicas mencionadas na documentação original foram omitidas ou sanitizadas neste repositório, preservando as boas práticas de segurança da informação.*
