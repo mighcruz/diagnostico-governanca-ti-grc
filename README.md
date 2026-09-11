@@ -45,12 +45,25 @@ O projeto foi conduzido em fases estruturadas:
 
 ## Frameworks e Boas Práticas
 
+![COBIT 5 / 2019](https://img.shields.io/badge/COBIT-5%20%2F%202019-003366?style=flat-square)
+![Balanced Scorecard](https://img.shields.io/badge/BSC-Balanced%20Scorecard-1E3A8A?style=flat-square)
+![ITIL](https://img.shields.io/badge/ITIL-Service%20Management-00A3E0?style=flat-square)
+![ISO 20000](https://img.shields.io/badge/ISO-20000-00539C?style=flat-square)
+![SWOT](https://img.shields.io/badge/SWOT-An%C3%A1lise%20Estrat%C3%A9gica-2E7D32?style=flat-square)
+
 - **COBIT 5/2019:** Utilizado para avaliar a capacidade dos processos de TI (domínios EDM, APO, BAI, DSS, MEA) e definir níveis de maturidade alvo.
 - **Balanced Scorecard (BSC):** Aplicado para conectar os objetivos de TI às perspectivas Financeira, Clientes, Processos Internos e Aprendizado e Crescimento.
 - **ITIL e ISO 20000:** Utilizados como referências para as boas práticas de gestão de serviços e processos de suporte.
 - **SWOT:** Utilizado para o diagnóstico estratégico do ambiente de governança atual.
 
+
 ## Tecnologias e Ferramentas
+
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square)
+![OVH Cloud](https://img.shields.io/badge/OVH%20Cloud-123F6D?style=flat-square)
+![Firewalls](https://img.shields.io/badge/Firewalls-CC292B?style=flat-square)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square)
 
 - **Modelagem e Gestão:** Ferramentas de modelagem de processos, planilhas para avaliação de maturidade COBIT e projeções financeiras.
 - **Infraestrutura Analisada:** Ambientes virtualizados (VMware/Hyper-V), Cloud (OVH), Firewalls, Active Directory.
@@ -71,7 +84,6 @@ A solução entregue foi um modelo de governança sob medida para uma PME de ser
 
 <p align="center"> <img src="docs/infografico.png" alt="infografico width="1000">
 
-
 ## Resultados e Validação
 
 - Diagnóstico preciso da maturidade atual da organização, identificando que a maioria dos processos críticos estava nos níveis 1 e 2.
@@ -84,20 +96,16 @@ A solução entregue foi um modelo de governança sob medida para uma PME de ser
 - **Aprendizado:** A aplicação do COBIT em PMEs exige adaptação; focar em processos de alto valor (como Segurança e Gestão de Incidentes) gera resultados mais rápidos do que tentar implementar todos os processos simultaneamente.
 - **Limitação:** As métricas de benefícios (redução de tempo, aumento de retenção) são projeções baseadas em benchmarks de mercado e no julgamento da gestão, não em dados históricos pós-implementação.
 
-## Próximos Passos e Evoluções Futuras
-
-- Iniciar a fase de implementação do Business Case, priorizando a formalização de SLAs e a implantação de uma ferramenta de Service Desk.
-- Evoluir a gestão de riscos (APO12) e segurança (APO13) para o Nível 3 de maturidade.
-- Implementar dashboards de monitoramento contínuo dos KPIs definidos no plano.
-
 ---
 
 ## 📂 Documentação, Evidências e Recursos
 
 - [Documentação Técnica Completa (PDF)](docs/relcpl.pdf)
 - [Link para o Relatório Completo de Auditoria e Governança (PDF Sanitizado)](docs/relcpl.pdf)
-- [Link para a Planilha de Avaliação de Maturidade COBIT]
-- [Link para o Business Case e Projeções Financeiras]
+- [Planilha de Avaliação de Maturidade COBIT 2019](docs/cobit2019.pdf)
+- [Planilha de Avaliação de Maturidade COBIT 5](docs/cobit5.pdf)
+- [Projeções Financeiras](docs/financeiro.pdf)
+- [Link para o Business Case](docs/xxxxxxxxxxxxxxxxxxxxxxxxxxxx.pdf)
 
 ## Contato
 
