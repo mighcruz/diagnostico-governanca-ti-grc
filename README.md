@@ -1,4 +1,4 @@
-# Diagnóstico e Plano de Governança de TI e GRC
+# Auditoria e Plano de Governança de TI e GRC
 
 > Avaliação de maturidade, diagnóstico estratégico e construção de Business Case para estruturação de governança, riscos e conformidade em empresa de serviços de TI.
 
