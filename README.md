@@ -94,7 +94,8 @@ A solução entregue foi um modelo de governança sob medida para uma PME de ser
 
 ## 📂 Documentação, Evidências e Recursos
 
-- [Link para o Relatório Completo de Auditoria e Governança (PDF Sanitizado)]
+- [Documentação Técnica Completa (PDF)](docs/relcpl.pdf)
+- [Link para o Relatório Completo de Auditoria e Governança (PDF Sanitizado)](docs/relcpl.pdf)
 - [Link para a Planilha de Avaliação de Maturidade COBIT]
 - [Link para o Business Case e Projeções Financeiras]
 
